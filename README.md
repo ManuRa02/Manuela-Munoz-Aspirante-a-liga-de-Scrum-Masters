@@ -17,7 +17,7 @@ https://miro.com/welcomeonboard/cndtMXRIRU10WWZiQ0U0VTJ2WlJBWlhINm9jWmVkRnpDcTFO
 5. Video .mp4 para dar respuesta a la Tarea B de entregable del apartado Revisión de visión.
 6. Video .mp4 para dar respuesta a la Tarea C de entregable del apartado Revisión de visión.
 7. Video .mp4 para dar respuesta a la Tarea E de entregable del apartado Revisión de visión.
-8. Video .mp4 para dar respuesta a la Tarea F de entregable del apartado Revisión de visión.
+8. Video .mp4 para dar respuesta a la Tarea F de entregable del apartado Revisión de visión. https://drive.google.com/file/d/1hLC83fIv2Jfo6g1-TCafCqvzyb_8SzXh/view?usp=sharing
 9. Video .mp4 Opcional con las respuestas a la última sección de la prueba técnica.
 
 Nota: GitHub no es una plataforma de Streming, por tanto, para reproducir cualquiera de los videos, es necesario darles clic y luego descargarlos.
