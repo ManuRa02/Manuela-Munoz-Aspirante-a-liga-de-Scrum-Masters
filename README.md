@@ -20,7 +20,7 @@ https://miro.com/welcomeonboard/cndtMXRIRU10WWZiQ0U0VTJ2WlJBWlhINm9jWmVkRnpDcTFO
 8. Video .mp4 para dar respuesta a la Tarea F de entregable del apartado Revisión de visión.
 9. Video .mp4 Opcional con las respuestas a la última sección de la prueba técnica.
 
-Nota: GitHub no es una plataforma de Streming, por tanto para reproducir cualquiera de los videos, es necesario darles clic y luego descargarlos.
+Nota: GitHub no es una plataforma de Streming, por tanto, para reproducir cualquiera de los videos, es necesario darles clic y luego descargarlos.
 
 Espero disfruten del recorrido por mi proyecto.
 
