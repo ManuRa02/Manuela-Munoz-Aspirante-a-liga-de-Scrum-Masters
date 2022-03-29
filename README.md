@@ -19,10 +19,12 @@ https://drive.google.com/file/d/1wFu7OW0RAg11nWqyMOvWucdF3iRcAPfv/view?usp=shari
 https://drive.google.com/file/d/16V-P2f-Jb9vZ9p9eCnaT8Gua1Hcyr7r8/view?usp=sharing
 6. URL del video para dar respuesta a la Tarea C del entregable del apartado Revisión de visión: Calendario.
 https://drive.google.com/file/d/1jFc5ZHB0djqk9D0WwyqWScor1XQLzrKy/view?usp=sharing
-8. URL del video para dar respuesta a la Tarea E del entregable del apartado Revisión de visión: Rol del Scrum Master. 
+7. URL del video para dar respuesta a la Tarea E del entregable del apartado Revisión de visión: Rol del Scrum Master. 
 https://drive.google.com/file/d/1hLC83fIv2Jfo6g1-TCafCqvzyb_8SzXh/view?usp=sharing
-7. URL del video para dar respuesta a la Tarea F de entregable del apartado Revisión de visión: Herramienta Scrum
-10. URL del video Opcional con las respuestas a la última sección de la prueba técnica.
+8. URL del video para dar respuesta a la Tarea F de entregable del apartado Revisión de visión: Herramienta Scrum.
+https://drive.google.com/file/d/1gqyRFmbLY4NexiKUF0FnhzwLHJeCGdF7/view?usp=sharing
+9. URL del video Opcional con las respuestas a la última sección de la prueba técnica.
+https://drive.google.com/file/d/1XREO08M4JCXJaDbs2V0SGfijG7otb3Wm/view?usp=sharing
 
 Nota: GitHub tiene limites de peso por archivo, por tanto, todos los vídeos se encuentran compartidos desde mi cuenta de Google Drive, adicionalmente, me disculpo por la marca de agua en cada uno de ellos, pero esto es debido al uso gratuito de la herramienta Camtasia para la edición.
 
