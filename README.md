@@ -12,7 +12,7 @@ A continuación veras cada uno de los enlaces y archivos para la entrega:
 https://miro.com/welcomeonboard/cndtMXRIRU10WWZiQ0U0VTJ2WlJBWlhINm9jWmVkRnpDcTFObm1VRjJGbWxHSXJpN0ZYRjlxdFJGbEZ3aE9ZcXwzNDU4NzY0NTIxODM2MDg3MDQ1?invite_link_id=412051883596   
 **Nota:** Para acceder es necesario iniciar sesión con cualquier correo, recomendado que sea uno de Gmail, lo cual, te proporcionará acceso directo al tablero principal con toda la información.
 
-3. Archivo .pdf con todas las respuestas a la prueba técnica, es decir, contiene la misma información que se encuentra en la URL del punto 2, sin embargo, lo subo en caso de que requieran tener en un archivo descargable con todas mis respuestas (Scrum Master Prueba).
+3. Archivo ScrumMasterPrueba.pdf con todas las respuestas a la prueba técnica, es decir, contiene la misma información que se encuentra en la URL del punto 2, sin embargo, lo subo en caso de que requieran tener en un archivo descargable con todas mis respuestas.
 4. URL del video para dar respuesta a la Tarea A de entregable del apartado Revisión de visión: Mapa de eventos.
 https://drive.google.com/file/d/1wFu7OW0RAg11nWqyMOvWucdF3iRcAPfv/view?usp=sharing
 5. URL del video para dar respuesta a la Tarea B del entregable del apartado Revisión de visión: Lista de chequeo.
