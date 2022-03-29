@@ -18,7 +18,7 @@ https://drive.google.com/file/d/1wFu7OW0RAg11nWqyMOvWucdF3iRcAPfv/view?usp=shari
 5. URL del video para dar respuesta a la Tarea B del entregable del apartado Revisión de visión: Lista de chequeo.
 https://drive.google.com/file/d/16V-P2f-Jb9vZ9p9eCnaT8Gua1Hcyr7r8/view?usp=sharing
 6. URL del video para dar respuesta a la Tarea C del entregable del apartado Revisión de visión: Calendario.
-https://drive.google.com/file/d/16V-P2f-Jb9vZ9p9eCnaT8Gua1Hcyr7r8/view?usp=sharing
+https://drive.google.com/file/d/1jFc5ZHB0djqk9D0WwyqWScor1XQLzrKy/view?usp=sharing
 8. URL del video para dar respuesta a la Tarea E del entregable del apartado Revisión de visión: Rol del Scrum. 
 https://drive.google.com/file/d/1hLC83fIv2Jfo6g1-TCafCqvzyb_8SzXh/view?usp=sharing
 7. URL del video para dar respuesta a la Tarea F de entregable del apartado Revisión de visión: Herramienta Scrum
